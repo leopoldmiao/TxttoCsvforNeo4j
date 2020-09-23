@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Users\\tcalab\\.conda\\envs\\pytorchGPU\\python.exe",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": true,
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestArgs": [
+        "."
+    ]
+}
